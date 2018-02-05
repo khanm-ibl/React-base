@@ -1,0 +1,14 @@
+{
+  "app_name": "QUANTA WALLET",
+  "menu": {
+    "home": "Home",
+    "result": "Result"
+  },
+  "common": {
+    "change": "Change"
+  },
+  "language": {
+    "en": "English",
+    "ja": "Japanese"
+  }
+}
